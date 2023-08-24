@@ -1,0 +1,30 @@
+D:\Linguagem de Programação II\DDD\PlataformaUniversidade\DDD.Infra.MemoryDB\bin\Debug\net6.0\DDD.Infra.MemoryDB.deps.json
+D:\Linguagem de Programação II\DDD\PlataformaUniversidade\DDD.Infra.MemoryDB\bin\Debug\net6.0\DDD.Infra.MemoryDB.dll
+D:\Linguagem de Programação II\DDD\PlataformaUniversidade\DDD.Infra.MemoryDB\bin\Debug\net6.0\DDD.Infra.MemoryDB.pdb
+D:\Linguagem de Programação II\DDD\PlataformaUniversidade\DDD.Infra.MemoryDB\bin\Debug\net6.0\DDD.Unimar.Domain.dll
+D:\Linguagem de Programação II\DDD\PlataformaUniversidade\DDD.Infra.MemoryDB\bin\Debug\net6.0\DDD.Unimar.Domain.pdb
+D:\Linguagem de Programação II\DDD\PlataformaUniversidade\DDD.Infra.MemoryDB\obj\Debug\net6.0\DDD.Infra.MemoryDB.csproj.AssemblyReference.cache
+D:\Linguagem de Programação II\DDD\PlataformaUniversidade\DDD.Infra.MemoryDB\obj\Debug\net6.0\DDD.Infra.MemoryDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linguagem de Programação II\DDD\PlataformaUniversidade\DDD.Infra.MemoryDB\obj\Debug\net6.0\DDD.Infra.MemoryDB.AssemblyInfoInputs.cache
+D:\Linguagem de Programação II\DDD\PlataformaUniversidade\DDD.Infra.MemoryDB\obj\Debug\net6.0\DDD.Infra.MemoryDB.AssemblyInfo.cs
+D:\Linguagem de Programação II\DDD\PlataformaUniversidade\DDD.Infra.MemoryDB\obj\Debug\net6.0\DDD.Infra.MemoryDB.csproj.CoreCompileInputs.cache
+D:\Linguagem de Programação II\DDD\PlataformaUniversidade\DDD.Infra.MemoryDB\obj\Debug\net6.0\DDD.Infra.MemoryDB.csproj.CopyComplete
+D:\Linguagem de Programação II\DDD\PlataformaUniversidade\DDD.Infra.MemoryDB\obj\Debug\net6.0\DDD.Infra.MemoryDB.dll
+D:\Linguagem de Programação II\DDD\PlataformaUniversidade\DDD.Infra.MemoryDB\obj\Debug\net6.0\refint\DDD.Infra.MemoryDB.dll
+D:\Linguagem de Programação II\DDD\PlataformaUniversidade\DDD.Infra.MemoryDB\obj\Debug\net6.0\DDD.Infra.MemoryDB.pdb
+D:\Linguagem de Programação II\DDD\PlataformaUniversidade\DDD.Infra.MemoryDB\obj\Debug\net6.0\ref\DDD.Infra.MemoryDB.dll
+C:\Users\Aula\Desktop\PlataformaUniversidade\DDD.Infra.MemoryDB\bin\Debug\net6.0\DDD.Infra.MemoryDB.deps.json
+C:\Users\Aula\Desktop\PlataformaUniversidade\DDD.Infra.MemoryDB\bin\Debug\net6.0\DDD.Infra.MemoryDB.dll
+C:\Users\Aula\Desktop\PlataformaUniversidade\DDD.Infra.MemoryDB\bin\Debug\net6.0\DDD.Infra.MemoryDB.pdb
+C:\Users\Aula\Desktop\PlataformaUniversidade\DDD.Infra.MemoryDB\bin\Debug\net6.0\DDD.Unimar.Domain.dll
+C:\Users\Aula\Desktop\PlataformaUniversidade\DDD.Infra.MemoryDB\bin\Debug\net6.0\DDD.Unimar.Domain.pdb
+C:\Users\Aula\Desktop\PlataformaUniversidade\DDD.Infra.MemoryDB\obj\Debug\net6.0\DDD.Infra.MemoryDB.csproj.AssemblyReference.cache
+C:\Users\Aula\Desktop\PlataformaUniversidade\DDD.Infra.MemoryDB\obj\Debug\net6.0\DDD.Infra.MemoryDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Desktop\PlataformaUniversidade\DDD.Infra.MemoryDB\obj\Debug\net6.0\DDD.Infra.MemoryDB.AssemblyInfoInputs.cache
+C:\Users\Aula\Desktop\PlataformaUniversidade\DDD.Infra.MemoryDB\obj\Debug\net6.0\DDD.Infra.MemoryDB.AssemblyInfo.cs
+C:\Users\Aula\Desktop\PlataformaUniversidade\DDD.Infra.MemoryDB\obj\Debug\net6.0\DDD.Infra.MemoryDB.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Desktop\PlataformaUniversidade\DDD.Infra.MemoryDB\obj\Debug\net6.0\DDD.Infra.MemoryDB.csproj.CopyComplete
+C:\Users\Aula\Desktop\PlataformaUniversidade\DDD.Infra.MemoryDB\obj\Debug\net6.0\DDD.Infra.MemoryDB.dll
+C:\Users\Aula\Desktop\PlataformaUniversidade\DDD.Infra.MemoryDB\obj\Debug\net6.0\refint\DDD.Infra.MemoryDB.dll
+C:\Users\Aula\Desktop\PlataformaUniversidade\DDD.Infra.MemoryDB\obj\Debug\net6.0\DDD.Infra.MemoryDB.pdb
+C:\Users\Aula\Desktop\PlataformaUniversidade\DDD.Infra.MemoryDB\obj\Debug\net6.0\ref\DDD.Infra.MemoryDB.dll
