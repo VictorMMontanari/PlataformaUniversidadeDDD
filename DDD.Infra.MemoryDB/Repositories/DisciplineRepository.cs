@@ -12,44 +12,38 @@ namespace DDD.Infra.MemoryDB.Repositories
     public class DisciplineRepository : IDisciplineRepository
     {
         private readonly ApiContext _context;
+
         public DisciplineRepository(ApiContext context)
         {
             _context = context;
         }
+
         public Discipline GetDisciplineById(int id)
         {
             return _context.Disciplines.Find(id);
         }
-        public List<Discipline> GetDiciplines()
+
+        public List<Discipline> GetDisciplines() 
         {
-            var list = _context.Disciplines.ToList();
-            return list;
+            return _context.Disciplines.ToList(); 
         }
 
-        public void InsertDicipline(Discipline dicipline)
+        public void InsertDiscipline(Discipline discipline)
         {
-            _context.Disciplines.Add(dicipline);
-            _context.SaveChanges();
-        }
-        public void UpdateDiscipline(Discipline dicipline)
-        {
-            _context.Entry(dicipline).State = EntityState.Modified;
-            _context.SaveChanges();
-        }
-        public void DeleteStudent(Discipline dicipline)
-        {
-            _context.Set<Discipline>().Remove(dicipline);
+            _context.Disciplines.Add(discipline);
             _context.SaveChanges();
         }
 
-        public List<Discipline> GetDisciplines()
+        public void UpdateDiscipline(Discipline discipline)
         {
-            throw new NotImplementedException();
+            _context.Entry(discipline).State = EntityState.Modified;
+            _context.SaveChanges();
         }
 
-        public void DeleteDiscipline(Discipline discipline)
+        public void DeleteDiscipline(Discipline discipline) 
         {
-            throw new NotImplementedException();
+            _context.Disciplines.Remove(discipline); 
+            _context.SaveChanges();
         }
     }
 }

@@ -608,24 +608,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Aula\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\victo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aula\\PlataformaUniversidadeDDD\\DDD.Infra.MemoryDB\\DDD.Infra.MemoryDB.csproj",
+      "projectUniqueName": "C:\\Users\\victo\\Source\\Repos\\PlataformaUniversidadeDDD\\DDD.Infra.MemoryDB\\DDD.Infra.MemoryDB.csproj",
       "projectName": "DDD.Infra.MemoryDB",
-      "projectPath": "C:\\Users\\Aula\\PlataformaUniversidadeDDD\\DDD.Infra.MemoryDB\\DDD.Infra.MemoryDB.csproj",
-      "packagesPath": "C:\\Users\\Aula\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aula\\PlataformaUniversidadeDDD\\DDD.Infra.MemoryDB\\obj\\",
+      "projectPath": "C:\\Users\\victo\\Source\\Repos\\PlataformaUniversidadeDDD\\DDD.Infra.MemoryDB\\DDD.Infra.MemoryDB.csproj",
+      "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\victo\\source\\repos\\PlataformaUniversidadeDDD\\DDD.Infra.MemoryDB\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Aula\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -639,8 +634,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Aula\\PlataformaUniversidadeDDD\\DDD.Unimar.Domain\\DDD.Unimar.Domain.csproj": {
-              "projectPath": "C:\\Users\\Aula\\PlataformaUniversidadeDDD\\DDD.Unimar.Domain\\DDD.Unimar.Domain.csproj"
+            "C:\\Users\\victo\\Source\\Repos\\PlataformaUniversidadeDDD\\DDD.Unimar.Domain\\DDD.Unimar.Domain.csproj": {
+              "projectPath": "C:\\Users\\victo\\Source\\Repos\\PlataformaUniversidadeDDD\\DDD.Unimar.Domain\\DDD.Unimar.Domain.csproj"
             }
           }
         }
@@ -676,7 +671,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
