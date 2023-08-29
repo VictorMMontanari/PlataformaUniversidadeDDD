@@ -12,7 +12,7 @@ namespace DDD.Infra.MemoryDB.Interfaces
     {
         public List<Discipline> GetDisciplines();
         public Discipline GetDisciplineById(int id);
-        public void InsertDicipline(Discipline discipline);
+        public void InsertDiscipline(Discipline discipline);
         public void UpdateDiscipline(Discipline discipline);
         public void DeleteDiscipline(Discipline discipline);
     }
