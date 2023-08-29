@@ -11,46 +11,45 @@ namespace DDD.Infra.MemoryDB.Repositories
 {
     public class DisciplineRepository : IDisciplineRepository
     {
-        public DisciplineRepository()
+        private readonly ApiContext _context;
+        public DisciplineRepository(ApiContext context)
         {
-            using (var context = new ApiContext())
-            {
-                var disciplines = new List<Discipline>()
-                {
-                    new Discipline
-                    {
-                        Name = "Projeto Integrador I",
-                        Value = 50,
-                        Available = true,
-                        Ead = true
-                    },
-                    new Discipline
-                    {
-                        Name = "Projeto Integrador II",
-                        Value = 60,
-                        Available = true,
-                        Ead = false
-                    },
-                    new Discipline
-                    {
-                        Name = "Banco de Dados I",
-                        Value = 40,
-                        Available = false,
-                        Ead = false
-                    }
-                };
+            _context = context;
+        }
+        public Discipline GetDisciplineById(int id) 
+        {
+            return _context.Disciplines.Find(id);
+        }
+        public List<Discipline> GetDiciplines()
+        {
+            var list = _context.Disciplines.ToList();
+            return list;
+        }
 
-                context.Disciplines.AddRange(disciplines);
-                context.SaveChanges();
-            }
+        public void InsertDicipline(Discipline dicipline)
+        {
+            _context.Disciplines.Add(dicipline);
+            _context.SaveChanges();
+        }
+        public void UpdateDiscipline(Discipline dicipline)
+        {
+            _context.Entry(dicipline).State = EntityState.Modified;
+            _context.SaveChanges();
+        }
+        public void DeleteStudent(Discipline dicipline)
+        {
+            _context.Set<Discipline>().Remove(dicipline);
+            _context.SaveChanges(); 
         }
 
         public List<Discipline> GetDisciplines()
         {
-            using (var context = new ApiContext())
-            {
-                return context.Disciplines.ToList();
-            }
+            throw new NotImplementedException();
+        }
+
+        public void DeleteDiscipline(Discipline discipline)
+        {
+            throw new NotImplementedException();
         }
     }
 }

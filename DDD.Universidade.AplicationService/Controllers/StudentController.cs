@@ -41,5 +41,30 @@ namespace DDD.Universidade.AplicationService.Controllers
             _studentRepository.InsertStudent(student);
             return CreatedAtAction(nameof(GetById), new { Id = student.StudentId }, student);
         }
+
+        [HttpPut]
+        public ActionResult<Student> PutStudent(Student student)
+        {
+            _studentRepository.UpdateStudent(student);
+            return Ok();
+        }
+
+        [HttpDelete]
+        public ActionResult Delete([FromBody] Student student)
+        {
+            try
+            {
+                if (student ==  null)
+                {
+                    return BadRequest();
+                }
+                _studentRepository.DeleteStudent(student);
+                return Ok("Aluno deletado com sucesso");
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+        }
     }
 }
