@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rJ1yZkY9tRJLZYLAnbygJDV+LNIEulTNNBCLw0fe9fHa4ZWA7U7VnYzL1AqVvOz3GktYo7jJe1DOalI1GmUfdA==",
+  "dgSpecHash": "a+YjYR3tiBml9hq6R+KGEJYBVg+kHO0Tjaj4DJ2GYuSwI4Kysc2CYJ5dRCtLWem00uk3UpXG/zP1vrPQgDld/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aula\\Desktop\\PlataformaUniversidade\\DDD.Universidade.AplicationService\\DDD.Universidade.AplicationService.csproj",
+  "projectFilePath": "C:\\Users\\Aula\\PlataformaUniversidadeDDD\\DDD.Universidade.AplicationService\\DDD.Universidade.AplicationService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aula\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
     "C:\\Users\\Aula\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.10\\microsoft.entityframeworkcore.abstractions.7.0.10.nupkg.sha512",

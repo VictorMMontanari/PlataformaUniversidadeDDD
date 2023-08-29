@@ -1,4 +1,5 @@
 ﻿using DDD.Infra.MemoryDB.Interfaces;
+using DDD.Infra.MemoryDB.Repositories;
 using DDD.Unimar.Domain.Entities;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -17,9 +18,16 @@ namespace DDD.Universidade.AplicationService.Controllers
         }
 
         [HttpGet]
-        public ActionResult <List<Discipline>> Get()
+        public ActionResult<List<Discipline>> Get()
         {
             return Ok(_disciplineRepository.GetDisciplines());
         }
+
+        [HttpGet("{id}")]
+        public ActionResult<Discipline> GetById(int id)
+        {
+            return Ok(_disciplineRepository.GetDisciplineById(id));
+        }
+
     }
 }

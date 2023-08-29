@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mktqONRMUJnx9RIi8uta1PQMm9Rb2JdXFLS+jflOYsm235CSGYvemR5gsFL88EakYjwztfT/lDlALcgULiLkBA==",
+  "dgSpecHash": "tPRHxJljCIrMcxh+xW8QqXywew0iTo+7GmSHd1UpK/pnkAzG7AMIxlK3MkBt0C+oxlyh6PrERK3tWMZv09aOyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aula\\Desktop\\PlataformaUniversidade\\DDD.Infra.MemoryDB\\DDD.Infra.MemoryDB.csproj",
+  "projectFilePath": "C:\\Users\\Aula\\PlataformaUniversidadeDDD\\DDD.Infra.MemoryDB\\DDD.Infra.MemoryDB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aula\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
     "C:\\Users\\Aula\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.10\\microsoft.entityframeworkcore.abstractions.7.0.10.nupkg.sha512",

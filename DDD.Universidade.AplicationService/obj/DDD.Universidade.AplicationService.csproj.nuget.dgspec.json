@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aula\\Desktop\\PlataformaUniversidade\\DDD.Universidade.AplicationService\\DDD.Universidade.AplicationService.csproj": {}
+    "C:\\Users\\Aula\\PlataformaUniversidadeDDD\\DDD.Universidade.AplicationService\\DDD.Universidade.AplicationService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aula\\Desktop\\PlataformaUniversidade\\DDD.Infra.MemoryDB\\DDD.Infra.MemoryDB.csproj": {
+    "C:\\Users\\Aula\\PlataformaUniversidadeDDD\\DDD.Infra.MemoryDB\\DDD.Infra.MemoryDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aula\\Desktop\\PlataformaUniversidade\\DDD.Infra.MemoryDB\\DDD.Infra.MemoryDB.csproj",
+        "projectUniqueName": "C:\\Users\\Aula\\PlataformaUniversidadeDDD\\DDD.Infra.MemoryDB\\DDD.Infra.MemoryDB.csproj",
         "projectName": "DDD.Infra.MemoryDB",
-        "projectPath": "C:\\Users\\Aula\\Desktop\\PlataformaUniversidade\\DDD.Infra.MemoryDB\\DDD.Infra.MemoryDB.csproj",
+        "projectPath": "C:\\Users\\Aula\\PlataformaUniversidadeDDD\\DDD.Infra.MemoryDB\\DDD.Infra.MemoryDB.csproj",
         "packagesPath": "C:\\Users\\Aula\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aula\\Desktop\\PlataformaUniversidade\\DDD.Infra.MemoryDB\\obj\\",
+        "outputPath": "C:\\Users\\Aula\\PlataformaUniversidadeDDD\\DDD.Infra.MemoryDB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Aula\\Desktop\\PlataformaUniversidade\\DDD.Unimar.Domain\\DDD.Unimar.Domain.csproj": {
-                "projectPath": "C:\\Users\\Aula\\Desktop\\PlataformaUniversidade\\DDD.Unimar.Domain\\DDD.Unimar.Domain.csproj"
+              "C:\\Users\\Aula\\PlataformaUniversidadeDDD\\DDD.Unimar.Domain\\DDD.Unimar.Domain.csproj": {
+                "projectPath": "C:\\Users\\Aula\\PlataformaUniversidadeDDD\\DDD.Unimar.Domain\\DDD.Unimar.Domain.csproj"
               }
             }
           }
@@ -69,18 +69,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Aula\\Desktop\\PlataformaUniversidade\\DDD.Unimar.Domain\\DDD.Unimar.Domain.csproj": {
+    "C:\\Users\\Aula\\PlataformaUniversidadeDDD\\DDD.Unimar.Domain\\DDD.Unimar.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aula\\Desktop\\PlataformaUniversidade\\DDD.Unimar.Domain\\DDD.Unimar.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Aula\\PlataformaUniversidadeDDD\\DDD.Unimar.Domain\\DDD.Unimar.Domain.csproj",
         "projectName": "DDD.Unimar.Domain",
-        "projectPath": "C:\\Users\\Aula\\Desktop\\PlataformaUniversidade\\DDD.Unimar.Domain\\DDD.Unimar.Domain.csproj",
+        "projectPath": "C:\\Users\\Aula\\PlataformaUniversidadeDDD\\DDD.Unimar.Domain\\DDD.Unimar.Domain.csproj",
         "packagesPath": "C:\\Users\\Aula\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aula\\Desktop\\PlataformaUniversidade\\DDD.Unimar.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Aula\\PlataformaUniversidadeDDD\\DDD.Unimar.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -128,18 +128,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Aula\\Desktop\\PlataformaUniversidade\\DDD.Universidade.AplicationService\\DDD.Universidade.AplicationService.csproj": {
+    "C:\\Users\\Aula\\PlataformaUniversidadeDDD\\DDD.Universidade.AplicationService\\DDD.Universidade.AplicationService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aula\\Desktop\\PlataformaUniversidade\\DDD.Universidade.AplicationService\\DDD.Universidade.AplicationService.csproj",
+        "projectUniqueName": "C:\\Users\\Aula\\PlataformaUniversidadeDDD\\DDD.Universidade.AplicationService\\DDD.Universidade.AplicationService.csproj",
         "projectName": "DDD.Universidade.AplicationService",
-        "projectPath": "C:\\Users\\Aula\\Desktop\\PlataformaUniversidade\\DDD.Universidade.AplicationService\\DDD.Universidade.AplicationService.csproj",
+        "projectPath": "C:\\Users\\Aula\\PlataformaUniversidadeDDD\\DDD.Universidade.AplicationService\\DDD.Universidade.AplicationService.csproj",
         "packagesPath": "C:\\Users\\Aula\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aula\\Desktop\\PlataformaUniversidade\\DDD.Universidade.AplicationService\\obj\\",
+        "outputPath": "C:\\Users\\Aula\\PlataformaUniversidadeDDD\\DDD.Universidade.AplicationService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -154,18 +154,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Aula\\Desktop\\PlataformaUniversidade\\DDD.Infra.MemoryDB\\DDD.Infra.MemoryDB.csproj": {
-                "projectPath": "C:\\Users\\Aula\\Desktop\\PlataformaUniversidade\\DDD.Infra.MemoryDB\\DDD.Infra.MemoryDB.csproj"
+              "C:\\Users\\Aula\\PlataformaUniversidadeDDD\\DDD.Infra.MemoryDB\\DDD.Infra.MemoryDB.csproj": {
+                "projectPath": "C:\\Users\\Aula\\PlataformaUniversidadeDDD\\DDD.Infra.MemoryDB\\DDD.Infra.MemoryDB.csproj"
               },
-              "C:\\Users\\Aula\\Desktop\\PlataformaUniversidade\\DDD.Unimar.Domain\\DDD.Unimar.Domain.csproj": {
-                "projectPath": "C:\\Users\\Aula\\Desktop\\PlataformaUniversidade\\DDD.Unimar.Domain\\DDD.Unimar.Domain.csproj"
+              "C:\\Users\\Aula\\PlataformaUniversidadeDDD\\DDD.Unimar.Domain\\DDD.Unimar.Domain.csproj": {
+                "projectPath": "C:\\Users\\Aula\\PlataformaUniversidadeDDD\\DDD.Unimar.Domain\\DDD.Unimar.Domain.csproj"
               }
             }
           }
@@ -204,7 +204,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

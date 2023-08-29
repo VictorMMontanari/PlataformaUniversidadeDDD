@@ -56,7 +56,7 @@ namespace DDD.Infra.MemoryDB.Repositories
                 throw;
             }
         }
-        
+
         public void DeleteStudent(Student student)
         {
             try
